@@ -1,4 +1,4 @@
-//NPM Chalk
+
 import { getCurrentDateTime } from './dateAndTime.js'; 
 import { chalkBgMagenta } from './chalk.js';
 
